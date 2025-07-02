@@ -1,0 +1,13 @@
+Source,Target,Type,Description
+OmpA,BlaR1,Regulatory Interaction,OmpA may influence beta-lactamase gene activation
+OmpA,AmpC,Indirect Activation,AmpC overexpression is linked to OmpA-related regulation
+OmpA,AdeB,Protein-Protein Interaction,OmpA interacts with RND efflux pump systems
+OmpA,MexR,Regulatory Interaction,OmpA affects MexR's regulation of efflux pumps
+OmpA,OmpC,Structural Interaction,OmpA cooperates with other porins for permeability
+OmpA,PBP2,Regulatory Interaction,OmpA indirectly regulates peptidoglycan synthesis via PBPs
+OmpA,Biofilm,Functional Association,OmpA stabilizes biofilm formation through adhesion
+BlaR1,AmpC,Activation,BlaR1 activates AmpC for β-lactam hydrolysis
+BlaR1,Bla1,Activation,BlaR1 induces Bla1 for β-lactam resistance
+AdeB,Antibiotics,Efflux Interaction,AdeB actively pumps out antibiotics
+AmpC,beta-lactams,Enzymatic Degradation,AmpC hydrolyzes beta-lactams for resistance
+MexR,Efflux Pumps,Regulatory Interaction,MexR regulates expression of efflux pump genes
